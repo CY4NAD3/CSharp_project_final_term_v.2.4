@@ -7,11 +7,11 @@
 ---
 
 ## 👥 Authors (Group 02 - Section A)
-* [cite_start]**Sajal Mollick** (ID: 22-49653-3) [cite: 141, 142, 149]
-* [cite_start]**Azraful Alam** (ID: 24-57476-2) [cite: 149]
-* [cite_start]**Azizul Alam** (ID: 22-47521-2) [cite: 149]
-* [cite_start]**Sabrina Islam Shorna** (ID: 22-49569-3) [cite: 149]
-* [cite_start]**Supervisor:** Tofayet Sultan [cite: 148]
+* [cite_start]**Sajal Mollick** (ID: 22-49653-3) 
+* [cite_start]**Azraful Alam** (ID: 24-57476-2) 
+* [cite_start]**Azizul Alam** (ID: 22-47521-2)
+* [cite_start]**Sabrina Islam Shorna** (ID: 22-49569-3) 
+* [cite_start]**Supervisor:** Tofayet Sultan 
 
 ---
 
